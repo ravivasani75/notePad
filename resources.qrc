@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>data/icons/undo.png</file>
+        <file>data/icons/superscript.png</file>
+        <file>data/icons/subscript.png</file>
+        <file>data/icons/select.png</file>
+        <file>data/icons/save-as.png</file>
+        <file>data/icons/save.png</file>
+        <file>data/icons/remove.png</file>
+        <file>data/icons/redo.png</file>
+        <file>data/icons/paste.png</file>
+        <file>data/icons/open.png</file>
+        <file>data/icons/New.png</file>
+        <file>data/icons/cut.png</file>
+        <file>data/icons/copy.png</file>
+        <file>data/icons/bold.png</file>
+        <file>data/aboutMe.html</file>
+    </qresource>
+</RCC>
