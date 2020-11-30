@@ -50,8 +50,6 @@ private slots:
 
     void on_aboutMeButton_clicked();
 
-    void on_tabWidget_destroyed();
-
 
 private:
     Ui::MainWindow *ui;
