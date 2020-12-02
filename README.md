@@ -25,7 +25,7 @@ A simple text-editor developed with Qt creator for editing rich text files. Comp
 Execute file notePad in folder "notePad"
 - $ ./notePad
 
-# Issues
+# Issues/Future-Work
 1. Warning dialog-box will not be displayed to save the work before closing the tab.
 2. Hint is not given for whether file content is changed or not.
 3. Search and replace functions are not provided.
