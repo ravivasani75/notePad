@@ -58,7 +58,6 @@ void MainWindow::on_actionNew_File_triggered()
 void MainWindow::on_tabWidget_tabCloseRequested(int index)
 {
     delete fileList.at(index);
-    delete editList.at(index);
     editList.removeAt(index);
     fileList.removeAt(index);
     ui->tabWidget->removeTab(index);
